@@ -1,0 +1,10 @@
+node_modules/
+dist/
+apps/web/dist/
+.env
+.data/
+.lab/
+playwright-report/
+test-results/
+.cache/
+*.log
